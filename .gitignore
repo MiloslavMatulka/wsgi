@@ -22,6 +22,10 @@ frontend/out/
 backend/static/
 frontend/build/
 
+# compiled
+*.pyc
+*.pyo
+
 # misc
 .DS_Store
 *.pem
